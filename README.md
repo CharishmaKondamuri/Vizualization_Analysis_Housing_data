@@ -1,5 +1,6 @@
 # Housing Data Analysis and Visualization
 This project involves an in-depth analysis and visualization of housing market data using Power BI. The goal is to provide insights into various aspects of the housing market, including price trends, distribution of prices across different regions, and other key metrics that influence the housing market.
+
 Key Features:
 
     Data Integration: Integrated various data sources to provide a comprehensive view of the housing market.
